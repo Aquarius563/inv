@@ -32,3 +32,8 @@ This is a simple inventory management system built with Node.js and Express. The
    
    ```bash
    https://www.postman.com/blue-space-427404/workspace/inventory/collection/36263476-6cbaa5b2-3e75-4270-802f-ddc48a81edc6?action=share&creator=36263476
+
+   3. Live Hosted Link:
+   
+   ```bash
+   inv-livid.vercel.app
