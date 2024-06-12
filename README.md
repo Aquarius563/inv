@@ -27,3 +27,8 @@ This is a simple inventory management system built with Node.js and Express. The
 
    ```bash
    git clone https://github.com/your-username/inventory-management-system.git
+   
+2. For Postman Collection:
+   
+   ```bash
+   https://www.postman.com/blue-space-427404/workspace/inventory/collection/36263476-6cbaa5b2-3e75-4270-802f-ddc48a81edc6?action=share&creator=36263476
